@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(147, 174, 213);
+}
+h2 {
+    color:rgb(72, 112, 169);
+
+}
+.wrapper {
+    max-width: 1160px;
+    max-height: 100%;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: white;
+}
+
+.form {
+    height: 72vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 0.7em;
+}
